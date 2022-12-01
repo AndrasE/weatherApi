@@ -27,7 +27,7 @@ app.use(bodyParser.urlencoded({extended: true})) //necessary for post request
         const weatherDescription = weatherData.weather[0].description //weather was array thats why 0
         console.log(weatherDescription);
         const icon = weatherData.weather[0].icon;
-        const imageUrl = "http://openweathermap.org/img/wn/" + icon     +"@2x.png"
+        const imageUrl = "http://openweathermap.org/img/wn/" + icon +"@2x.png"
 
         res.write("<p><b>The current weather is: "+ weatherDescription +".</b></p>");
         res.write("<h1>The temperature in " + query + " is: " + temp + "C. </h1>" );
