@@ -5,6 +5,7 @@ const bodyParser = require("body-parser");
 
 app.get("/", function(req, res) {
 
+app.use(express.static(__dirname + '/public'))
 app.use(bodyParser.urlencoded({extended: true})) //necessary for post request
 
   res.sendFile(__dirname + "/index.html");
