@@ -42,7 +42,7 @@ text-decoration: underline;
 .card {
     margin: auto;
     position: relative;
-    top: 30%;
+    top: 25%;
     background-color: rgb(245, 178, 68);
     opacity: 78%;
 }
