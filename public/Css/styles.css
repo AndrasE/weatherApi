@@ -5,6 +5,14 @@ body {
     width: 100%;
     padding: 10px;
 }
+.card-img-top {
+    width: 8rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    position: relative;
+    top: -5px;
+}
 p {
     font-size: 1.3rem;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -31,7 +39,6 @@ a:hover {
 color: beige;
 text-decoration: underline;
 }
-
 .card {
     margin: auto;
     position: relative;
@@ -45,5 +52,9 @@ text-decoration: underline;
 }
 .card-text{
     margin-bottom: 20px;
+}
+.info {
+    margin-bottom: 2px;
+    text-align: center;
 }
 
