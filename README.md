@@ -12,8 +12,8 @@
 
 ## Hi there 👋
 
-This project was part pf my self-studying journey. Originally the app was making the api calls captured by body-parser and got displayed by simply with res.write(). 
-I wanted to add some design to it so I added bootsrap with Ejs. 
+This project was part of my self-studying journey. Originally the app was making the api calls captured by body-parser and got displayed by simply with res.write(). 
+I added bootsrap with Ejs to desing it. Not too shabby!
 
 Take care, code safe! 💻
 
