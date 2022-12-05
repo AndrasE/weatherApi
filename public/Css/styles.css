@@ -1,5 +1,5 @@
 body {
-    background-image: url(../wallpaper.jpg);;
+    background-image: url(../wallpaper.jpg);
     position: absolute;
     height: 100%;
     width: 100%;
@@ -18,18 +18,19 @@ p {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: justify;
 }
-footer{
+footer {
     position: fixed;
     text-align: center;
     left: 0;
     bottom: 0;
     right: 0;
 }
-footer p{
+footer p {
     text-align: center;
     color: beige;
     font-weight: 100;
     font-size: 1.1rem;
+    margin-bottom: 0;
 }
 a {
 text-decoration: none;
