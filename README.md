@@ -5,9 +5,9 @@
   </a>
 </p>
 <h3 align="center">
-  A basic full stack application 
+  Simple openweathermap.org weatherApi app 
   <br>
-  Ejs with Express & MongoDb 
+  Express with Ejs
 </h3>
 
 ## Hi there 👋
