@@ -47,7 +47,7 @@ text-decoration: underline;
 .card {
     margin: auto;
     position: relative;
-    top: 25%;
+    top: 15%;
     background-color: rgb(245, 178, 68);
     opacity: 78%;
     width: 20rem;
@@ -57,7 +57,7 @@ text-decoration: underline;
     margin-bottom: 20px;
 }
 .card-text{
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 .card-text p{
     text-align: center; 
