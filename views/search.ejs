@@ -10,17 +10,17 @@
   </head>
 
   <body>
-    <div class="card" style="width: 20rem; top: 15%;">
+    <div class="card">
       <div class="card-body">
         <h2 class="card-title">WeatherApi <i class="fa-solid fa-cloud-sun-rain fa-xl"></i></h2>
-        <p class="card-text" style="text-align: center; margin-bottom: 0;">The current weather in <b> <%= city %>(<%= country %>)</b> is:  </p>
+        <p class="card-text">The current weather in <b> <%= city %>(<%= country %>)</b> is:  </p>
         <img src=<%= imageUrl %> class="card-img-top" alt="...">
         <p class="info">Tempreture: <%= temp %> °c</p>
         <p class="info">Feels like: <%= feels_like %> °c</p>
         <p class="info">Wind: <%= wind %> km/h</p>
         <p class="info">Humidity: <%= humidity %> %</p>
         <br>
-        <button style="display:block; margin: 10px auto 0 ;" class="btn btn-success" onclick="location.href = '/'">new search</button>    
+        <button class="btn btn-success" onclick="location.href = '/'">new search</button>    
       </div>
     </div>
 
