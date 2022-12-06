@@ -50,6 +50,8 @@ text-decoration: underline;
 }
 .card-img-top {
     width: 8rem;
+    border: 1px solid #ffe681;
+    border-radius: 40%;
     display: block;
     margin-left: auto;
     margin-right: auto; 
