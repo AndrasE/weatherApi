@@ -1,7 +1,7 @@
 <br>
 <p align="center">
   <a href="https://andras-weatherapi.cyclic.app/" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/AndrasE/raw-readme/blob/main/weath.png?raw=true" width="150px">
+  <img src="https://github.com/AndrasE/raw-readme/blob/main/weatherapi-readme-img.png?raw=true" width="150px">
   </a>
 </p>
 <h3 align="center">
