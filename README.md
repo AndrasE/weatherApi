@@ -12,7 +12,7 @@
 
 ## Hi there 👋
 
-This project was part of my self-studying journey. Originally the app was making the api calls captured by body-parser and got displayed by simply with res.write(). 
+This project was part of my self-studying journey. Originally the app made the api-calls captured by body-parser and got displayed with res.write(). 
 I added bootsrap with Ejs to desing it. Not too shabby!
 
 Take care, code safe! 💻
