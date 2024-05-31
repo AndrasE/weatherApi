@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-  <a href="https://andras-weatherapi.cyclic.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://weatherapicall-f7a0d6ebd9f7.herokuapp.com" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/AndrasE/raw-readme/blob/main/weatherapi-readme-img.png?raw=true" width="260px">
   </a>
 </p>
