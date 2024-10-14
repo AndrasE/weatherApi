@@ -5,7 +5,7 @@
   </a>
 </p>
 <h3 align="center">
-  Simple <a href="https://openweathermap.org/api" target="_blank" rel="noopener noreferrer">openweathermap.org </a> weatherApi app 
+  Simple weatherApi app 
   <br>
   Express with Ejs
 </h3>
