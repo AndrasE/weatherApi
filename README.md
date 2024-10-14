@@ -10,12 +10,9 @@
   Express with Ejs
 </h3>
 
-## Hi there 👋
+## Hello there 👋
 
-This project was part of my self-studying journey. Originally the app made the api-calls captured by body-parser and got displayed with res.write(). 
-I added bootsrap with Ejs to design it. Not too shabby!
-
-Take care, code safe! 💻
+This project was part of my self-study journey. Initially, the app handled API calls captured by body-parser and displayed the results using res.write(). I later enhanced the design by incorporating Bootstrap with EJS. Not too shabby!
 
 
 ## Run 🚀
