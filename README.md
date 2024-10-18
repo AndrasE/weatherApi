@@ -3,9 +3,7 @@
   <img src="https://github.com/AndrasE/raw-readme/blob/main/weatherapi-readme-img.png?raw=true" width="160px">
   </a>
 <br/>
-  Simple weatherApi app with
-  <br/>
-  Bodyparser, Express with Ejs
+  Simple weatherApi Ejs app with Bodyparser, Express
 </h3>
 
 ## Hello there 👋
