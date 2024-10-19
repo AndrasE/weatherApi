@@ -1,6 +1,6 @@
 <h3 align="center">
   <a href="https://weatherapicall-f7a0d6ebd9f7.herokuapp.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/AndrasE/raw-readme/blob/main/weatherapi-readme-img.png?raw=true" width="170px">
+  <img src="https://github.com/AndrasE/raw-readme/blob/e0ba0d38fc6f2bb201983bbc4986e59f1ae946f2/logo/weatherapi-readme-img.png" width="170px">
   </a>
 <br/>
   Simple weatherApi Ejs app with Bodyparser, Express
